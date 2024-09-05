@@ -24,4 +24,4 @@ When deciding what to make, I wanted to use cutting, etching, and rastering oper
 
 I also noticed this poster in the laser cutting room, which I may use in the future to test different joining methods and tolerances.
 
-<img width="400" alt="Completed Name Plate" src="assets/joints photo.png">
+<p align="center"><img width="400" alt="Completed Name Plate" src="assets/joints photo.png"></p>
