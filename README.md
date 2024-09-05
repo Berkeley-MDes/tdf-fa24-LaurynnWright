@@ -17,7 +17,7 @@ While the name plate turned out well, I found ways to expidite the process in th
 <img height="350" alt="Completed Name Plate" src="assets/run time image.png">   <img height="350" alt="Completed Name Plate" src="assets/laser cutter image.png">
 </p>
 When deciding what to make, I wanted to use cutting, etching, and rastering operations to become familar with each process. I also chose to use both images and text in my illustater file to learn how to properly convert each format to the proper format required by the laser cutters. I was able to find a template for a name plate [HERE](https://www.instructables.com/Laser-Cut-Desk-Nameplate/), which I subsequently customized. The example was made with acrylic, but I used wood for my project. When assembling it, it was difficult to fit the pieces together, but I was eventually able to struggle the wood into the slots. 
-<p align ="center">
+</p align ="center">
 <img height="350" alt="Completed Name Plate" src="assets/name plate parts.png">   <img height="350" alt="Completed Name Plate" src="assets/name plate assembly.png">
 </p>
 I also noticed this poster in the laser cutting room, which I may use in the future to test different joining methods and tolerances.
