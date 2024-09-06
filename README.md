@@ -1,12 +1,12 @@
 # DES INV 202 Weekly Progress Reports
 Lauryn Wright's Journey through Technology Design Foundations 
 
-# Outline
+## Outline
 [week 1](README.md#week-1-report-1)
 
 ---
-# Week 1: Report 1 #
-## 08/30/2024 - 09/05/2024
+## Week 1: Report 1 #
+### 08/30/2024 - 09/05/2024
 
 This week, I designed a name plate for my desk! I used a laser cutter to fabricate the design after I created it in Adobe Illustrator. My goal was to become more familiar with the laser cutting equipment and associated software, which I did successfully. The completed name plate is shown here:
 
@@ -25,3 +25,5 @@ When deciding what to make, I wanted to use cutting, etching, and rastering oper
 I also noticed this poster in the laser cutting room, which I may use in the future to test different joining methods and tolerances.
 
 <p align="center"><img width="75%" alt="Completed Name Plate" src="assets/joints photo.png"></p>
+
+---
