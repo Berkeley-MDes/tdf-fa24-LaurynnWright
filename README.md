@@ -4,6 +4,8 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Outline
 [week 1](README.md#week-1-report-1)
 
+[week 2](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright?tab=readme-ov-file#week-2-report-2)
+
 ---
 ## Week 2: Report 2 #
 ### 09/06/2024 - 09/12/2024
@@ -33,8 +35,10 @@ While analyzing the cellphone creation section, I noticed the use of a cluster. 
 
 Following the outputs of this cell phone cluster were options for toggling on/off different aspects of the cellphone display. There were also color swatch inputs, so I took the opportunity to turn the cellphone pink.
 
-<p align="center"><img width="40%" alt="Before The Pink" src="assets/rhino setup screenshot.png">
-<img width="40%" alt="After The Pink" src="assets/pink phone screenshot.png"></p>
+<p align="center"><img width="47.5%" alt="Before The Pink" src="assets/rhino setup screenshot.png">
+<img width="47.5%" alt="After The Pink" src="assets/pink phone screenshot.png"></p>
+
+After evaluating the example files and beginning to understand the software, I decided to create a structure using Grasshopper.
 
 
 ---
