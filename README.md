@@ -5,6 +5,39 @@ Lauryn Wright's Journey through Technology Design Foundations
 [week 1](README.md#week-1-report-1)
 
 ---
+## Week 2: Report 2 #
+### 09/06/2024 - 09/12/2024
+
+This week, I began to familiarize myself with Rhino and Grasshopper. I began by watching basic Rhino videos, and I reorganized my workspace to better suit my preferences. For example, I changed the layout of the view ports, making the perspective view port largest because I manipulate this view most often. Both the basic layout and my custom layout are shown below. The basic layout has four view ports of equal size, and a dark grey background. I changed the background to a lighter grey for aesthetic preferences along with rearranging the viewports.
+
+<p align="center"><img width="45%" alt="Standard Rhino Setup" src="assets/rhino base setup.png">
+<img width="50%" alt="Custom Rhino Setup" src="assets/rhino custom setup.png"></p>
+
+I also began to explore grasshopper by analyzing the example phone stand file provided to the TDF class. I looked at the file and manipulated different input bars to see how each contributed to the stand that was displayed in Rhino. I also began to diagram my understanding of the file components. The example file looks like this.
+
+<p align="center"><img width="95%" alt="Grasshopper Example File" src="assets/Grasshopper Example Screenshot.png"></p>
+
+I began my diagram with a basic overview of the main sections of the file as shown below.
+
+<p align="center"><img width="70%" alt="Overview Diagram" src="assets/Grasshopper Example Overview.png"></p>
+
+From there, I went into more detail analyzing each part. I began with the fundamentals (purple) section, where the origin, planes, and prominent rectangular prism void were created. I then moved on to the creation of the cellphone stand (blue) before moving on to the creation of the cellphone itself (yellow). Each diagram is shown below.
+
+<p align="center"><img width="40%" alt="Fundamentals Diagram" src="assets/Grasshopper Example Purple Breakdown.png"></p>
+<p align="center"><img width="100%" alt="Cellphone Stand Creation Diagram" src="assets/Grasshopper Example Blue Breakdown.png"></p>
+<p align="center"><img width="70%" alt="Cellphone Creation Diagram" src="assets/Grasshopper Example Yellow Breakdown.png"></p>
+
+While analyzing the cellphone creation section, I noticed the use of a cluster. I did some research on how they worked, and learned that they operate like a function, allowing someone to condense a file that would otherwise be significantly larger. The much larger file containing the details of this cluster are shown in the screenshot below.
+
+<p align="center"><img width="95%" alt="Cellphone Cluster Details" src="assets/Grasshopper Example Cell Phone Cluster Screenshot.png"></p>
+
+Following the outputs of this cell phone cluster were options for toggling on/off different aspects of the cellphone display. There were also color swatch inputs, so I took the opportunity to turn the cellphone pink.
+
+<p align="center"><img width="40%" alt="Before The Pink" src="assets/rhino setup screenshot.png">
+<img width="40%" alt="After The Pink" src="assets/pink phone screenshot.png"></p>
+
+
+---
 ## Week 1: Report 1 #
 ### 08/30/2024 - 09/05/2024
 
