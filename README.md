@@ -40,7 +40,7 @@ Following the outputs of this cell phone cluster were options for toggling on/of
 
 After evaluating the example files and beginning to understand the software, I decided to create a structure using Grasshopper. I used basic components to create a box with adjustable inputs that has a cylindrical cutout in the center.
 
-<p align="center"><img width="47.5%" alt="Before The Pink" src="assets/rhino setup screenshot.png"></p>
+<p align="center"><img width="95%" alt="1st Grasshopper Creation" src="assets/first try grasshopper.png"></p>
 
 
 ---
