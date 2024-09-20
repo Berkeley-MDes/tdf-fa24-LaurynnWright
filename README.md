@@ -12,6 +12,8 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 3: Report 3 #
 ### 09/13/2024 - 09/19/2024
 
+This week, I completed my computational design project. Watch the video below for more details!
+
 [![Computational Design Project](https://img.youtube.com/vi/ySvgrYaIrDs/0.jpg)](https://www.youtube.com/watch?v=ySvgrYaIrDs)
 
 ---
