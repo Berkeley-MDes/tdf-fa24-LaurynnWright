@@ -12,6 +12,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 3: Report 3 #
 ### 09/13/2024 - 09/19/2024
 
+[![Watch the video](https://raw.githubusercontent.com/LaurynnWright/tdf-fa24-LaurynnWright/main/assets/Thumbnail.png)](https://raw.githubusercontent.com/LaurynnWright/tdf-fa24-LaurynnWright/main/assets/Module-1-Video.mp4)
 
 ---
 ## Week 2: Report 2 #
