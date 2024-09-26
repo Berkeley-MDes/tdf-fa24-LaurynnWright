@@ -14,7 +14,9 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
 
-This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. 
+This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. Specifically, I studied how the AC Transit bus system works to connect me and my app to real-time bus locations. As Shown in the diagram below, the user communicates with the app, which requests data from a server via an API. The data in the server is updated from a computer system on each bus. The computer system relies on location data that it recieves from the bus's GPS, and the GPS calculates its location with time delays and triangulation based on radio signals that is recieves from satellites.
+
+<p align="center"><img width="95%" alt="AC Transit Ecosystem Diagram" src="assets/AC Transit Ecosystem Diagram.png"></p>
 
 ---
 ## Week 3: Report 3 #
