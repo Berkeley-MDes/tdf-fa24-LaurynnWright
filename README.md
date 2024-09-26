@@ -18,6 +18,8 @@ This week, I began to familiarize myself with interaction systems, which will en
 
 <p align="center"><img width="95%" alt="AC Transit Ecosystem Diagram" src="assets/AC Transit Ecosystem Diagram.png"></p>
 
+Understanding how different systems interact with one another to create a larger ecosystem allows will enable me to use the same principles for a project of my own. 
+
 ---
 ## Week 3: Report 3 #
 ### 09/13/2024 - 09/19/2024
