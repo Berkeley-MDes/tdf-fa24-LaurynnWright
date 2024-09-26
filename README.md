@@ -14,7 +14,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
 
-
+This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. 
 
 ---
 ## Week 3: Report 3 #
