@@ -40,16 +40,23 @@ For this code to work as intended, I needed to construct the associated circuit.
 <p align="center"><img width="40%" alt="Circuit Diagram" src="assets/microelectronics_intro.png">
 <img width="35%" alt="Assembled Circuit" src="assets/assembledbreadboard.jpg"></p>
 
-The circuit worked properly, and the result in the serial monitor is shown below. As seen, the time interval changes after the "Button pressed!" notification appears. Before the notivication the displayed interval is 749 ms. Afterward, it is 541 ms.
+The circuit worked properly, and the result in the serial monitor is shown below. As seen, the time interval changes after the "Button pressed!" notification appears. Before the notification the displayed interval is 749 ms. Afterward, it is 541 ms.
 <p align="center"><img width="95%" alt="03_altering_periodicity output" src="assets/code03outputzoomed.png"></p>
 
+The fourth file, 04_make_it_blink, continues to build upon file three. It adds a few lines including lines 44-46 to make the built-in LED on the Photon2 blink. "HIGH" turns on the LED, and "LOW" turns it back off. The loop section of the code is shown below.
 <p align="center"><img width="95%" alt="04_make_it_blink" src="assets/code04compiledsuccessfullyzoomed.png"></p>
+
+The output in the serial monitor continues as with file three.
 <p align="center"><img width="95%" alt="04_make_it_blink output" src="assets/code04outputzoomed.png"></p>
+
+Below, you can see the built-in LED on the Photon2. It is designated as D7 on the device and in the code.
 <p align="center"><img width="95%" alt="Circuit Response" src="assets/breadboard&arrow.jpg"></p>
 
-<p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05flashedsuccessfullyzoomed.png"></p>
-<p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05zoomed.png"></p>
+The last file I examined was 05_make_it_blink_outside. This file continued to build on the previous ones and added a command for another external LED to blink alongside the built-in one. The code below shows the input variables. The built-in LED is D7, and the other external LED must connect to D3. The loop is also displayed, and lines 47-51 feature the update. This allows both built-in and external LEDs to blink.
+<p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05flashedsuccessfullyzoomed.png">
+ <img width="95%" alt="05_make_it_blink_outside" src="assets/code05zoomed.png"></p>
 
+The resulting output both on the circuit board and in the serial monitor are captured in the video below. "Hello World!" continues to be spelled out vertically in the serial monitor with time intervals changes corressponding to button presses. On the breadboard, the Photon2 light and the LED on the breadboard blink in unison.
 <p align="center"> Click the image below to watch the video.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uQQzzyF3U2A" target="_blank">
  <img src="assets/videothumbnail.png" alt="Watch the video" width=95% />
