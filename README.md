@@ -16,11 +16,21 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 5: Report 5 #
 ### 09/27/2024 - 10/03/2024
 
+This week, I began to familiarize myself with VS Code and the Photon2 microcontroller. In particular, I practiced manipulating the example files created by Jeff Lubow. I went through 5 files (01_helloworld, 02_helloworld_spell, 03_altering_periodicity, 04_make_it_blink, and 05_make_it_blink_outside), each of which are discussed below. 
+
+The first file, 01_helloworld, is displayed below. After I initially tried to compile the file, the task failed, so I needed to analyze the error. I noticed that I had forgotten a semicolon on one line, and once I fixed it, the code compiled successfully.
 <p align="center"><img width="95%" alt="01_helloworld flashed" src="assets/helloworldcompiledsuccessfully.png"></p>
+
+After compiling the code, I flashed it to my device (Photon2), which was also successful as shown in the screenshot below.
 <p align="center"><img width="95%" alt="01_helloworld flashed" src="assets/code01flashedsuccessfullyzoomed.png"></p>
+
+The result of this code is displayed in the serial monitor. Every three seconds, the number of characters in the hello-world message is displayed.
 <p align="center"><img width="95%" alt="01_helloworld output" src="assets/code01outputzoomed.png"></p>
 
+In the second file, 02_helloworld_spell, the code was changed so that "hello world" is spelled out letter by letter vertically. The code is shown in the screenshot below. The loop works to index each letter in the message as it iterates, relying on "count++" to progress to the next letter. 
 <p align="center"><img width="95%" alt="02_helloworld_spell" src="assets/helloworld02compiledsuccessfully.png"></p>
+
+I again compiled the code and flashed it to my device. The serial monitor's output is shown here.
 <p align="center"><img width="95%" alt="02_helloworld_spell output" src="assets/code02outputzoomed.png"></p>
 
 <p align="center"><img width="95%" alt="03_altering_periodicity" src="assets/code03flashedsuccessfully.png"></p>
