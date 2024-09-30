@@ -66,6 +66,8 @@ The resulting output both on the circuit board and in the serial monitor are cap
  <img src="assets/videothumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
+Understanding how these physical components and software work together to accomplish each task will help me to create an ecosystem of my own.
+
 ---
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
