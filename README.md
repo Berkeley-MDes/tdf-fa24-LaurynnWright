@@ -33,10 +33,15 @@ In the second file, 02_helloworld_spell, the code was changed so that "hello wor
 I again compiled the code and flashed it to my device. The serial monitor's output is shown here.
 <p align="center"><img width="95%" alt="02_helloworld_spell output" src="assets/code02outputzoomed.png"></p>
 
+The third file, 03_altering_periodicity, builds upon the previous file. As "Hello World!" is spelled out vertically, it experiences a specific time delay between each letter. This time delay is also displayed in the serial monitor alongside the letters. An interrupt is used to allow for a button to prompt a change in the time delay. The successfully compiled and flashed code is shown in the photo below.
 <p align="center"><img width="95%" alt="03_altering_periodicity" src="assets/code03flashedsuccessfully.png"></p>
-<p align="center"><img width="95%" alt="03_altering_periodicity output" src="assets/code03outputzoomed.png"></p>
+
+For this code to work as intended, I needed to construct the associated circuit. I used the circuit diagram below (left) provided by Jeff Lubow to construct my own circuit (right). The button receives power from the 3V port on the Photon2, and the output feeds into D2. When the button is pressed, it triggers the interupt, which allows for a new periodicity to be used.
 <p align="center"><img width="40%" alt="Circuit Diagram" src="assets/microelectronics_intro.png">
 <img width="35%" alt="Assembled Circuit" src="assets/assembledbreadboard.jpg"></p>
+
+The circuit worked properly, and the result in the serial monitor is shown below. As seen, the time interval changes after the "Button pressed!" notification appears. Before the notivication the displayed interval is 749 ms. Afterward, it is 541 ms.
+<p align="center"><img width="95%" alt="03_altering_periodicity output" src="assets/code03outputzoomed.png"></p>
 
 <p align="center"><img width="95%" alt="04_make_it_blink" src="assets/code04compiledsuccessfullyzoomed.png"></p>
 <p align="center"><img width="95%" alt="04_make_it_blink output" src="assets/code04outputzoomed.png"></p>
