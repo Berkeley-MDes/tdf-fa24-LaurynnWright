@@ -16,6 +16,17 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 5: Report 5 #
 ### 09/27/2024 - 10/03/2024
 
+<p align="center"><img width="95%" alt="01_helloworld flashed" src="assets/helloworldcompiledsuccessfully.png"></p>
+<p align="center"><img width="95%" alt="01_helloworld flashed" src="assets/code01flashedsuccessfullyzoomed.png"></p>
+<p align="center"><img width="95%" alt="01_helloworld output" src="assets/code01outputzoomed.png"></p>
+<p align="center"><img width="95%" alt="02_helloworld_spell" src="assets/helloworld02compiledsuccessfully.png"></p>
+<p align="center"><img width="95%" alt="02_helloworld_spell output" src="assets/code02outputzoomed.png"></p>
+<p align="center"><img width="95%" alt="03_altering_periodicity" src="assets/code03flashedsuccessfully.png"></p>
+<p align="center"><img width="95%" alt="03_altering_periodicity output" src="assets/code03outputzoomed.png"></p>
+<p align="center"><img width="95%" alt="04_make_it_blink" src="assets/code04compiledsuccessfullyzoomed.png"></p>
+<p align="center"><img width="95%" alt="04_make_it_blink output" src="assets/code04outputzoomed.png"></p>
+<p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05flashedsuccessfullyzoomed.png"></p>
+<p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05zoomed.png"></p>
 
 ---
 ## Week 4: Report 4 #
