@@ -82,7 +82,10 @@ Understanding how different systems interact with one another to create a larger
 
 This week, I completed my computational design project. Watch the video below for more details!
 
-[![Computational Design Project](https://img.youtube.com/vi/ySvgrYaIrDs/0.jpg)](https://www.youtube.com/watch?v=ySvgrYaIrDs)
+<p align="center"> Click the image below to watch the video.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ySvgrYaIrDs" target="_blank">
+ <img src="assets/ComputationalDesignThumbnail.png" alt="Watch the video" width=95% />
+</a></p>
 
 ---
 ## Week 2: Report 2 #
