@@ -35,6 +35,12 @@ Lauryn Wright's Journey through Technology Design Foundations
 <p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05flashedsuccessfullyzoomed.png"></p>
 <p align="center"><img width="95%" alt="05_make_it_blink_outside" src="assets/code05zoomed.png"></p>
 
+[![Video Title](https://img.youtube.com/vi/uQQzzyF3U2A/0.jpg)](https://www.youtube.com/watch?v=uQQzzyF3U2A)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uQQzzyF3U2A" target="_blank">
+ <img src="http://img.youtube.com/vi/uQQzzyF3U2A/mqdefault.jpg" alt="Watch the video" width=95% border="10" />
+</a>
+
 ---
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
