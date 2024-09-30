@@ -37,7 +37,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 <p align="center"> Click the image below to watch the video.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=uQQzzyF3U2A" target="_blank">
- <img src="assets/computer&breadboard.png" alt="Watch the video" width=95% />
+ <img src="assets/videothumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
 ---
