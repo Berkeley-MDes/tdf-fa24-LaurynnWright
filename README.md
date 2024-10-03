@@ -66,7 +66,7 @@ The resulting output both on the circuit board and in the serial monitor are cap
  <img src="assets/videothumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
-Understanding how these physical components and software work together to accomplish each task will help me to create an ecosystem of my own.
+This week, I worked diligently to develop new skills. I was able to accomplish many activities and further my understanding of the Photon 2. Understanding how these physical components and software work together to accomplish each task will help me to create an ecosystem of my own. I still don't know what the project will be for this module, but if i had to speculate, I would imagine that we may be combining the use of the physical microcontroller, VS Code, an API, potentially copilot, and sensors to create some sort of responsive system. For example, with these tools, I could potentially have an LED light up every time someone enters the word "student" on their computer. I could make a game that lets someone's interaction with a distance sensor guide them through an obstacle course. I could possibly make some wheels turn using voice commands. There are many ways to combine the aformentioned skills to create a cohesive system of interworking parts.
 
 ---
 ## Week 4: Report 4 #
