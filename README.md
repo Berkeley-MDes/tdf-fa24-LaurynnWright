@@ -67,7 +67,8 @@ The resulting output both on the circuit board and in the serial monitor are cap
 </a></p>
 
 After working through the files above, I reviewed several of the tutorials listed on the TDF wiki page. I noticed that the LED pulse tutorial was actually incorporated into the code of the earlier files, and the circuit diagram was (almost) the same. The interrupts that were used to change the LED's blinking speed is the same method that was used in the 03_altering_periodicity file. While working on the fsr--> LED Color tutorial, my code originally would not compile. I had copied and pasted the code from the tutorial page rather than downloading the associated files. In that code, the functions "setTarget" and "setColor" were referenced inside the "void loop ()" function, but they were not defined until after the loop. I placed the functions above the loop and ordered them so that each function was defined before it was referenced. Then, my code compiled successfully! The image below shows my compiling and flashing attempts along with the video of the working circuit. The led would change colors depending on the pressure applied to the force sensitive resistor, and they would gradually shift to meet the new color associated with each applied pressure.
-<p align="right"> Click the image below to watch the video. </p>
+<p align="center">&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
+Click the image below to watch the video. </p>
 <p align="center">
 <img width="40%" alt="FSR to LED Color Terminal" src="assets/fsr-led-compile&flash.png">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=TekFLnrGhPo" target="_blank">
