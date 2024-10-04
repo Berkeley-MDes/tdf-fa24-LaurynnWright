@@ -97,6 +97,10 @@ This week, I completed my computational design project. Watch the video below fo
  <img src="assets/ComputationalDesignThumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
+While completing this project, I used Grasshopper, Rhino, a Cura Ultimaker Slicer, and a Prusa Mk4 printer. I decided to integrate a new cellphone stand design into the system provided by TJ that I had analyzed last week. I challenged myself to create an organic shape, and I customizes the system's parameters to meet my phone specifications. The biggest challenge I faced was learning how to incorporate the graph mapper into my system, which took several tries and videos before it worked properly. I ultimately decided upon using a sine function to adjust the radii of the polygons that made up my cellphone base. I was able to manipulate different parameters until I was satisfied with the form, and I used the phone's boundary representation to create the cutout that would allow for my phone to sit properly in the base.
+
+We were also able to hear from a guest speaker this week, who explained many other applications of computational design from modeling seed-planting mechanisms to creating oragami. Computational design offers a vast array of possibilities, which can help to increase accessibility, sustainability, inclusivity, and so much more. By augmenting human capabilities and allowing us to see how things will work before actually having to build them, this process allows for efficiency and iteration. We can also build models by taking in measurements and physical behaviors and using them to extrapolate more outcomes. Grasshopper is just one of many computational design tools, and I imagine that AI will also capitalize on the principles to further advance technological solutions.
+
 ---
 ## Week 2: Report 2 #
 ### 09/06/2024 - 09/12/2024
