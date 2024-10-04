@@ -133,6 +133,8 @@ After evaluating the example files and beginning to understand the software, I d
 
 <p align="center"><img width="95%" alt="1st Grasshopper Creation" src="assets/first try grasshopper.png"></p>
 
+This week, I pushed myself to understand new software, and I began to feel more comfortable with computational design. By diagramming the provideded example, I was able to conceptualize and analyze how different components worked together to create the intended structure. This understanding will allow me to create a computational design of my own, and I will be able to add inputs that allow for adjustments to be made. As I think about what could be accomplished with grasshopper, many things come to mind. Already, I have seen how this tool can be used to adjust parameters to accommodate different cellphone sizes and to change an object to adjust to different environmental conditions. The same can be true for other applications requiring customization such as casts, retainers, chairs, glasses, writing utensils, and more.
+
 
 ---
 ## Week 1: Report 1 #
