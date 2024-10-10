@@ -22,11 +22,14 @@ This week I learned about the Stemma-QT module. I soldered for the first time in
 <p align="center"><img width="95%" alt="Accel_Gyro Serial Monitor" src="assets/accel_gyro serial monitor.png"></p>
 
 I decided to install a serial plotter extension to better visualize the output values, and I modified the code to work with the serial plotter. The updated code and plot are shown below. For this data set, the sensor was at rest on a table. The table of variables shows the range of values for the acceleration in the x, y, and z directions and the angular velocity values in the x, y, and z directions.
-<p align="center"><img width="95%" alt="Accel_Gyro Initial Plot Code" src="assets/accel_gyro serial monitor.png"></p>
+<p align="center"><img width="95%" alt="Accel_Gyro Initial Plot Code" src="assets/accel_gyro compiled for plotter 2.png"></p>
 <p align="center"><img width="95%" alt="Accel_Gyro Initial Plot" src="assets/accel_gyro plot.png"></p>
 <p align="center"><img width="95%" alt="Accel_Gyro Initial Plot Variables" src="assets/accel_gyro plotter variables.png"></p>
 
-As shown, the values are not centered on zero despite the sensor being at rest, which suggests a need for calibration. I updated the code again so that the plot, while at rest, would center around zero. The photos below show the updated code to zero the data along with a plot of output values. For this plot, the sensor was at rest on a table again. 
+As shown, the values are not centered on zero despite the sensor being at rest, which suggests a need for calibration. I updated the code again so that the plot, while at rest, would center around zero. The photos below show the updated code to zero the data along with a plot of output values and a variables table. For this plot, the sensor was at rest on a table again.
+<p align="center"><img width="95%" alt="Accel_Gyro Zeroed Plot Code" src="assets/accel_gyro zeroed code.png"></p>
+<p align="center"><img width="95%" alt="Accel_Gyro Zeroed Plot" src="assets/accel_gyro zeroed plot.png"></p>
+<p align="center"><img width="95%" alt="Accel_Gyro Zeroed Plot Variables" src="assets/accel_gyro zeroed plotter variables.png"></p>
 
 While this plot is improved in relation to zeroing the data, it is still demonstrating a lot of noise. I decided to average a span of values rather than plotting every output in an attempt to smooth the curves, minimize the noise, and filter the data. I updated the loop so that a range of values were averaged before that averaged value was plotted. The results of the updated code refined the values, which allowed me to zero the data more accurately. Once I adjusted the offset values, I ran the code again. The updated code and results are shown below. While offering improvement, there are still outliers that could be removed with potentially a low pass or high pass filter.
 
