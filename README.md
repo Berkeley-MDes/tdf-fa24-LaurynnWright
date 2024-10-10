@@ -50,6 +50,8 @@ The image below shows the draft system architecture for our jellyfish project, o
 The following process diagram demonstrates how information is expected to flow between components.
 <p align="center"><img width="95%" alt="Jellyfish Process Diagram" src="assets/jellyfish process diagram.png"></p>
 
+As I look toward the future, I expect to iterate (A LOT) on the VS Code for our jellfish project to improve data collection and reliability. I intend to learn about Touch Designer and learn to integrate several components into a larger ecosystem. I look forward to expanding my c++ knowledge, integration capabilities, and software exposure. While not primarily responsible for hardware components, I will also assist with the Stemma-QT actuators.
+
 ---
 ## Week 5: Report 5 #
 ### 09/27/2024 - 10/03/2024
