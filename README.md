@@ -19,6 +19,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 ### 10/04/2024 - 10/10/2024
 
 This week I learned about the Stemma-QT module. I soldered for the first time in order to secure the pins on the Stemma-QT interface board. I then downloaded the provided project files and began to experiment with the acceleration/ gyroscopic sensor. After compiling and flashing the code successfully, the serial monitor produced the following values.
+<p align="center"><img width="95%" alt="Accel_Gyro Serial Monitor" src="assets/accel_gyro serial monitor.png"></p>
 
 I decided to install a serial plotter extension to better visualize the output values, and I modified the code to work with the serial plotter. The updated code and plot are shown below. For this data set, the sensor was at rest on a table. The table of variables shows the range of values for the acceleration in the x, y, and z directions and the angular velocity values in the x, y, and z directions.
 
