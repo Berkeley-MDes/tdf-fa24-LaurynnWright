@@ -31,7 +31,11 @@ As shown, the values are not centered on zero despite the sensor being at rest, 
 <p align="center"><img width="95%" alt="Accel_Gyro Zeroed Plot" src="assets/accel_gyro zeroed plot.png"></p>
 <p align="center"><img width="95%" alt="Accel_Gyro Zeroed Plot Variables" src="assets/accel_gyro zeroed plotter variables.png"></p>
 
-While this plot is improved in relation to zeroing the data, it is still demonstrating a lot of noise. I decided to average a span of values rather than plotting every output in an attempt to smooth the curves, minimize the noise, and filter the data. I updated the loop so that a range of values were averaged before that averaged value was plotted. The results of the updated code refined the values, which allowed me to zero the data more accurately. Once I adjusted the offset values, I ran the code again. The updated code and results are shown below. While offering improvement, there are still outliers that could be removed with potentially a low pass or high pass filter.
+While this plot is improved in relation to zeroing the data, it is still demonstrating a lot of noise. I decided to average a span of values rather than plotting every output in an attempt to smooth the curves, minimize the noise, and filter the data. I updated the loop so that a range of values were averaged before that averaged value was plotted. 
+<p align="center"><img width="95%" alt="Accel_Gyro Averaged & Zeroed Plot Code" src="assets/accel_gyro averaged code.png"></p>
+
+The results of the updated code refined the values, which allowed me to zero the data more accurately. Once I adjusted the offset values, I ran the code again. The updated results are shown below. While offering improvement, there are still outliers that could be removed with potentially a low pass or high pass filter.
+<p align="center"><img width="95%" alt="Accel_Gyro Averaged & Zeroed Plot" src="assets/accel_gyro plot averaged and zeroed.png"></p>
 
 I also worked with my project-2 team to create a proposal. The following quote from the introduction and objective section of our project proposal outlines our goals for the upcoming week.
 
