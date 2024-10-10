@@ -18,7 +18,8 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 6: Report 6 #
 ### 10/04/2024 - 10/10/2024
 
-This week I learned about the Stemma-QT module.
+This week I learned about the Stemma-QT module. I soldered for the first time in order to secure the pins on the Stemma-QT interface board. I then downloaded the provided project files and began to experiment with the acceleration/ gyroscopic sensor.
+
 I also worked with my project-2 team to create a proposal. The following quote from the introduction and objective section of our project proposal outlines our goals for the upcoming week.
 
 > "The goal of this project is to explore the use of **Particle Photon 2 devices**, **Particle Cloud Services**, **Max MSP**, **Touch Designer**, and **STEMMA QT-based sensors and actuators** to develop a **context-aware, interactive jellyfish display**. This feasibility study will evaluate the potential of Particle Photon 2 in an integrated ecosystem, focusing on the reliability of sensor inputs and system responses.
