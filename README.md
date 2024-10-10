@@ -25,7 +25,6 @@ I also worked with my project-2 team to create a proposal. The following quote f
 The jellyfish display will respond to physical-touch and distance cues using **Particle Cloud integration** with **Max MSP** prompting audible responses and **Touch Designer** facilitating visual responses. The display will be comprised of two parts: a mechanical jellyfish and a digital interface display. The audiovisual responses will be influenced by user interaction with **force sensitive resistors**, **ultrasonic distance sensors**, and **gesture recognition sensors**. This project emphasizes the integration of physical and digital systems to create a responsive proof of concept. The purpose of the project is to explore how technology can inspire new forms of artistic expression. By integrating sensor-based interactions, this technology can be applied in diverse contexts, such as education, interactive gaming, or as an instrument for creative expression."
 >
 The image below shows the draft system architecture for our jellyfish project, outlining the key components.
-<p align="center"><img width="75%" alt="Jellyfish Draft System Architecture" src="assets/jellyfish draft system architecture.png"></p>
 
 The following process diagram demonstrates how information is expected to flow between components.
 <p align="center"><img width="95%" alt="Jellyfish Process Diagram" src="assets/jellyfish process diagram.png"></p>
