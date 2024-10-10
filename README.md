@@ -18,7 +18,13 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 6: Report 6 #
 ### 10/04/2024 - 10/10/2024
 
-This week I learned about the Stemma-QT module. I soldered for the first time in order to secure the pins on the Stemma-QT interface board. I then downloaded the provided project files and began to experiment with the acceleration/ gyroscopic sensor.
+This week I learned about the Stemma-QT module. I soldered for the first time in order to secure the pins on the Stemma-QT interface board. I then downloaded the provided project files and began to experiment with the acceleration/ gyroscopic sensor. After compiling and flashing the code successfully, the serial monitor produced the following values.
+
+I decided to install a serial plotter extension to better visualize the output values, and I modified the code to work with the serial plotter. The updated code and plot are shown below. For this data set, the sensor was at rest on a table. The table of variables shows the range of values for the acceleration in the x, y, and z directions and the angular velocity values in the x, y, and z directions.
+
+As shown, the values are not centered on zero despite the sensor being at rest, which suggests a need for calibration. I updated the code again so that the plot, while at rest, would center around zero. The photos below show the updated code to zero the data along with a plot of output values. For this plot, the sensor began at rest before being picked up and moved around. 
+
+While this plot is improved in relation to zeroing the data, it is still demonstrating a lot of noise. I decided to average a span of values rather than plotting every output in an attempt to smooth the curves, minimize the noise, and filter the data. I updated the loop so that a range of values were averaged before that averaged value was plotted. The results of the updated code refined the values, which allowed me to zero the data more accurately. Once I adjusted the offset values, I ran the code again. The updated code and results are shown below. While offering improvement, there are still outliers that could be removed with potentially a low pass or high pass filter.
 
 I also worked with my project-2 team to create a proposal. The following quote from the introduction and objective section of our project proposal outlines our goals for the upcoming week.
 
