@@ -12,6 +12,14 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 [week 5](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-5-report-5)
 
+[week 6](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-6-report-6)
+
+---
+## Week 6: Report 6 #
+### 10/04/2024 - 10/10/2024
+
+This week I learned about the Stemma QT module.
+
 ---
 ## Week 5: Report 5 #
 ### 09/27/2024 - 10/03/2024
