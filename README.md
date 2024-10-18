@@ -14,6 +14,12 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 [week 6](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-6-report-6)
 
+[week 7](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-7-report-7)
+
+---
+## Week 7: Report 7 #
+### 10/11/2024 - 10/17/2024
+
 ---
 ## Week 6: Report 6 #
 ### 10/04/2024 - 10/10/2024
