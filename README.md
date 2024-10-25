@@ -36,7 +36,7 @@ This project made me consider how digital ecosystems might transform human exper
 ## Week 7: Report 7 #
 ### 10/11/2024 - 10/17/2024
 
-This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of the neopixel featherwing.
+This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing.
 
 ---
 ## Week 6: Report 6 #
