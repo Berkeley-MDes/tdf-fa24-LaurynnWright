@@ -22,13 +22,13 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 8: Report 8 #
 ### 10/18/2024 - 10/24/2024
 
-This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light, and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
+This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light, and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing, and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
 
 <p align="center"><img width="45%" alt="Jellyfish Sketch" src="assets/20241025_063449283_iOS.png"></p>
 
-The jellyfish tentacles are driven by a servo motor and when an object is placed within 10 cm of its eyes (which is an ultrasonic sensor) the tentacles move.  A button beneath the Jellyfish bell changes the colors of the neopixel LEDs, & a gesture sensor on its side triggers ripples in the accompanying display.
+The jellyfish tentacles are driven by a servo motor and when an object is placed within 10 cm of its eyes (which is an ultrasonic sensor) the tentacles move.  A button beneath the Jellyfish bell changes the colors of the neopixel LEDs, and a gesture sensor on its side triggers ripples in the accompanying display.
 
-We originally intended to use an FSR sensor, located on the side of the jellyfish’s head to change the jellyfish’s color, but pivoted to using a button. The button allowed for seamless integration into the code using interrupts due to its digital characteristics. We also ended up using two photons, one for the electronics and one for the gesture sensor to p5 interaction. 
+We originally intended to use an FSR sensor, located on the side of the jellyfish’s head to change the jellyfish’s color but pivoted to using a button. The button allowed for seamless integration into the code using interrupts due to its digital characteristics. We also ended up using two photons, one for the electronics and one for the gesture sensor to p5 interaction. 
 
 Since I tested each component individually, and then as a combined circuit, the integration of electronics went smoothly. I managed the breadboard and wiring of the final prototype, which was successful due to the flexible, modular housing that Chantal designed. I also edited the video for my team, which is below.
 
