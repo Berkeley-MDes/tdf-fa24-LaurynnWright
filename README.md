@@ -43,7 +43,7 @@ This project made me consider how digital ecosystems might transform human exper
 
 This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial-monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing.
 
-The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2.
+The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2. I relied on pinout and product information from Adafruit that I found <a href="https://learn.adafruit-neopixel-featherwing/pinouts">HERE</a>.
 
 <p align="center"><img width="55%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
 
