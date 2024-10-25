@@ -22,7 +22,9 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 8: Report 8 #
 ### 10/18/2024 - 10/24/2024
 
-This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components.
+This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
+
+<p align="center"><img width="45%" alt="Jellyfish Sketch" src="assets/20241025_063449283_iOS.png"></p>
 
 The jellyfish tentacles are driven by a servo motor and when an object is placed within 10 cm of its eyes (which is an ultrasonic sensor) the tentacles move.  A button beneath the Jellyfish bell changes the colors of the neopixel LEDs, & a gesture sensor on its side triggers ripples in the accompanying display.
 
@@ -53,7 +55,9 @@ This week, I tested several components that my team is considering integrating i
 
 The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2. I relied on pinout and product information from Adafruit that I found <a href="https://learn.adafruit.com/adafruit-neopixel-featherwing/pinouts">HERE</a>.
 
-<p align="center"><img width="55%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
+<p align="center"><img width="40%" alt="Jellyfish Sketch" src="assets/20241025_065013898_iOS.png">
+<img width="5%" alt="space" src="assets/white square.png">
+<img width="50%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
 
 |**SPECULATIONS**|
 |----------------|
