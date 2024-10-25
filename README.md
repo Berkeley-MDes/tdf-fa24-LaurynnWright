@@ -22,7 +22,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 8: Report 8 #
 ### 10/18/2024 - 10/24/2024
 
-This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
+This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light, and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
 
 <p align="center"><img width="45%" alt="Jellyfish Sketch" src="assets/20241025_063449283_iOS.png"></p>
 
