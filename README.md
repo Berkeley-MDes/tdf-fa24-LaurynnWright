@@ -2,22 +2,13 @@
 Lauryn Wright's Journey through Technology Design Foundations 
 
 ## Outline
-| [week 1](README.md#week-1-report-1) |
-|-------------------------------------|
 
-[week 2](README.md#week-2-report-2)
-
-[week 3](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-3-report-3)
-
-[week 4](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-4-report-4)
-
-[week 5](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-5-report-5)
-
-[week 6](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-6-report-6)
-
-[week 7](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-7-report-7)
-
-[week 8](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-8-report-8)
+| Table of Contents ||
+|:-----------------:|:--:|
+| [week 1](README.md#week-1-report-1) | &emsp; &nbsp; &nbsp; [week 5](README.md#week-5-report-5) &nbsp; &nbsp; &emsp; |
+| [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) |
+| [week 3](README.md#week-3-report-3) | [week 7](README.md#week-7-report-7) |
+| [week 4](README.md#week-4-report-4) | [week 8](README.md#week-8-report-8) |
 
 ---
 ## Week 8: Report 8 #
