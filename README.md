@@ -30,11 +30,13 @@ We originally intended to use an FSR sensor, located on the side of the jellyfis
 
 Since I tested each component individually, and then as a combined circuit, the integration of electronics went smoothly. I managed the breadboard and wiring of the final prototype, which was successful due to the flexible, modular housing that Chantal designed. 
 
-This project made me consider how Digital Ecosystems might transform human experiences by making environments more interactive and adaptable. In the future, design and engineering are likely to focus on creating smart, flexible products that integrate with evolving systems. AI will enhance these ecosystems, enabling them to respond to and anticipate user behavior in real-time. Projects like Jellyfish could ultimately blur the boundaries between digital and physical interactions, with the potential to develop into innovative educational tools—an exciting direction for future exploration.
+This project made me consider how digital ecosystems might transform human experiences by making environments more interactive and adaptable. In the future, design and engineering are likely to focus on creating smart, flexible products that integrate with evolving systems. AI will enhance these ecosystems, enabling them to respond to and anticipate user behavior in real-time. Projects like Jellyfish could ultimately blur the boundaries between digital and physical interactions, with the potential to develop into innovative educational tools—an exciting direction for future exploration.
 
 ---
 ## Week 7: Report 7 #
 ### 10/11/2024 - 10/17/2024
+
+This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of the neopixel featherwing.
 
 ---
 ## Week 6: Report 6 #
