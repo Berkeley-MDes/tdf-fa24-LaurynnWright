@@ -179,7 +179,7 @@ This week, I began to familiarize myself with interaction systems, which will en
 |**SPECULATIONS**|
 |----------------|
 
-Understanding how different systems interact with one another to create a larger ecosystem will enable me to use the same principles for a project of my own. I anticipate integrating components both physical and digital similar to the example of the bus system. The ability to connect components via APIs has vast implications for long-distance communication systems. This enables GPS usage, alert systems, find my friends, life 360, and even smart home capabilities like checking if the garage door is closed and oven is off. Digital ecosystems have the ability to not only enhance convenience but also safety. 
+Understanding how different systems interact with one another to create a larger ecosystem will enable me to use the same principles for a project of my own. I anticipate integrating both physical and digital components similar to the example of the bus system. The ability to connect components via APIs has vast implications for long-distance communication systems. This enables GPS usage, alert systems, find my friends, life 360, and even smart home capabilities like checking if the garage door is closed and oven is off. Digital ecosystems have the ability to not only enhance convenience but also safety. 
 
 ---
 ## Week 3: Report 3 #
@@ -192,7 +192,7 @@ This week, I completed my computational design project. Watch the video below fo
  <img src="assets/ComputationalDesignThumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
-While completing this project, I used Grasshopper, Rhino, a Cura Ultimaker Slicer, and a Prusa Mk4 printer. I decided to integrate a new cellphone stand design into the system provided by TJ that I had analyzed last week. I challenged myself to create an organic shape, and I customized the system's parameters to meet my phone specifications. The biggest challenge I faced was learning how to incorporate the graph mapper into my system, which took several tries and tutorial videos before it worked properly. I ultimately decided upon using a sine function to adjust the radii of the polygons that made up my cellphone base. I was able to manipulate different parameters until I was satisfied with the form, and I used the phone's boundary representation to create the cutout that would allow for my phone to sit properly in the base.
+<p> While completing this project, I used Grasshopper, Rhino, a Cura Ultimaker Slicer, and a Prusa Mk4 printer. I decided to integrate a new cellphone stand design into the system provided by TJ that I had analyzed last week. I challenged myself to create an organic shape, and I customized the system's parameters to meet my phone specifications. The biggest challenge I faced was learning how to incorporate the graph mapper into my system, which took several tries and tutorial videos before it worked properly. I ultimately decided upon using a sine function to adjust the radii of the polygons that made up my cellphone base. I was able to manipulate different parameters until I was satisfied with the form, and I used the phone's boundary representation to create the cutout that would allow for my phone to sit properly in the base.
 
 |**SPECULATIONS**|
 |----------------|
