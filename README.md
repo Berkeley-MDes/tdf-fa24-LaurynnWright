@@ -179,7 +179,7 @@ This week, I began to familiarize myself with interaction systems, which will en
 |**SPECULATIONS**|
 |----------------|
 
-Understanding how different systems interact with one another to create a larger ecosystem allows will enable me to use the same principles for a project of my own. 
+Understanding how different systems interact with one another to create a larger ecosystem will enable me to use the same principles for a project of my own. I anticipate integrating components both physical and digital similar to the example of the bus system. The ability to connect components via APIs has vast implications for long-distance communication systems. This enables GPS usage, alert systems, find my friends, life 360, and even smart home capabilities like checking if the garage door is closed and oven is off. Digital ecosystems have the ability to not only enhance convenience but also safety. 
 
 ---
 ## Week 3: Report 3 #
