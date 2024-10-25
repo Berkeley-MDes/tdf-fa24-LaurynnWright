@@ -51,7 +51,7 @@ This week, I tested several components that my team is considering integrating i
  <img src="assets/Proximity-Gesture Thumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
-The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2. I relied on pinout and product information from Adafruit that I found <a href="https://learn.adafruit-neopixel-featherwing/pinouts">HERE</a>.
+The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2. I relied on pinout and product information from Adafruit that I found <a href="https://learn.adafruit.com/adafruit-neopixel-featherwing/pinouts">HERE</a>.
 
 <p align="center"><img width="55%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
 
