@@ -22,6 +22,9 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 8: Report 8 #
 ### 10/18/2024 - 10/24/2024
 
+|**REFLECTIONS**|
+|---------------|
+
 This week, my team and I completed our Jellyfish. After a week of testing electronic components (FSR, button, ultrasonic, haptic driver, servo, neopixel, proximity, light, and gesture sensor) we finalized the components. The team decided to use 3 inputs: button, ultrasonic sensor and gesture sensor, and 3 outputs: servo motor, 4x8 neopixel featherwing, and a p5.js visual display. I lead the development of the integrated circuit and code for the electronic components. The sketch below illustrates the input sensors and physical output actuators.
 
 <p align="center"><img width="45%" alt="Jellyfish Sketch" src="assets/20241025_063449283_iOS.png"></p>
@@ -46,6 +49,9 @@ This project made me consider how digital ecosystems might transform human exper
 ## Week 7: Report 7 #
 ### 10/11/2024 - 10/17/2024
 
+|**REFLECTIONS**|
+|---------------|
+
 This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial-monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing. A video of me testing the proximity/ gesture sensor is shown below.
 
 <p align="center"> Click the image below to watch the video.
@@ -67,6 +73,9 @@ I speculate that we will likely use a servo motor rather than the dynamixel due 
 ---
 ## Week 6: Report 6 #
 ### 10/04/2024 - 10/10/2024
+
+|**REFLECTIONS**|
+|---------------|
 
 This week I learned about the Stemma-QT module. I soldered for the first time in order to secure the pins on the Stemma-QT interface board. I then downloaded the provided project files and began to experiment with the acceleration/ gyroscopic sensor. After compiling and flashing the code successfully, the serial monitor produced the following values.
 <p align="center"><img width="95%" alt="Accel_Gyro Serial Monitor" src="assets/accel_gyro serial monitor.png"></p>
@@ -108,6 +117,9 @@ As I look toward the future, I expect to iterate (A LOT) on the VS Code for our 
 ---
 ## Week 5: Report 5 #
 ### 09/27/2024 - 10/03/2024
+
+|**REFLECTIONS**|
+|---------------|
 
 This week, I began to familiarize myself with VS Code and the Photon2 microcontroller. In particular, I practiced manipulating the example files created by Jeff Lubow. I went through 5 files (01_helloworld, 02_helloworld_spell, 03_altering_periodicity, 04_make_it_blink, and 05_make_it_blink_outside), each of which are discussed below. 
 
@@ -176,6 +188,9 @@ This week, I worked diligently to develop new skills. I was able to accomplish m
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
 
+|**REFLECTIONS**|
+|---------------|
+
 This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. Specifically, I studied how the AC Transit bus system works to connect me and my app to real-time bus locations. The images below show several screens of the AC Transit app that I often interact with. They were found <a href="https://play.google.com/store/apps/details?id=org.actransit.actransitapp&hl=en_US)">HERE</a>.
 
 <p align="left"><img width="20%" alt="Welcom Page" src="assets/AC Transit Start.png">
@@ -200,6 +215,9 @@ Understanding how different systems interact with one another to create a larger
 ## Week 3: Report 3 #
 ### 09/13/2024 - 09/19/2024
 
+|**REFLECTIONS**|
+|---------------|
+
 This week, I completed my computational design project. Watch the video below for more details!
 
 <p align="center"> Click the image below to watch the video.
@@ -217,6 +235,9 @@ We were also able to hear from a guest speaker this week, who explained many oth
 ---
 ## Week 2: Report 2 #
 ### 09/06/2024 - 09/12/2024
+
+|**REFLECTIONS**|
+|---------------|
 
 This week, I began to familiarize myself with Rhino and Grasshopper. I began by watching basic Rhino videos, and I reorganized my workspace to better suit my preferences. For example, I changed the layout of the view ports, making the perspective view port largest because I manipulate this view most often. Both the basic layout and my custom layout are shown below. The basic layout has four view ports of equal size, and a dark grey background. I changed the background to a lighter grey for aesthetic preferences along with rearranging the viewports.
 
