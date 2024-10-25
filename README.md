@@ -35,6 +35,7 @@ Since I tested each component individually, and then as a combined circuit, the 
  <img src="assets/Jellyfish Thumbnail.png" alt="Watch the video" width=95% />
 </a></p>
 
+**SPECULATIONS**
 This project made me consider how digital ecosystems might transform human experiences by making environments more interactive and adaptable. In the future, design and engineering are likely to focus on creating smart, flexible products that integrate with evolving systems. AI will enhance these ecosystems, enabling them to respond to and anticipate user behavior in real-time. Projects like Jellyfish could ultimately blur the boundaries between digital and physical interactions, with the potential to develop into innovative educational tools—an exciting direction for future exploration.
 
 ---
@@ -52,6 +53,7 @@ The image below shows the wiring for the neopixel featherwing device. It is set 
 
 <p align="center"><img width="55%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
 
+**SPECULATIONS**
 I speculate that we will likely use a servo motor rather than the dynamixel due to the requirements of our device. I believe the dynamixel is stronger, but I doubt we will need it. Its integration into the particle system is more complex than that of the servo motor, and it potentially requires the use of additional hardware components, which may not be shipped in time.
 
 ---
@@ -90,6 +92,7 @@ The image below shows the draft system architecture for our jellyfish project, o
 The following process diagram demonstrates how information is expected to flow between components.
 <p align="center"><img width="95%" alt="Jellyfish Process Diagram" src="assets/jellyfish process diagram.png"></p>
 
+**SPECULATIONS**
 As I look toward the future, I expect to iterate (A LOT) on the VS Code for our jellfish project to improve data collection and reliability. I intend to learn about Touch Designer and learn to integrate several components into a larger ecosystem. I look forward to expanding my c++ knowledge, integration capabilities, and software exposure. While not primarily responsible for hardware components, I will also assist with the Stemma-QT actuators.
 
 ---
@@ -154,6 +157,7 @@ After working through the files above, I reviewed several of the tutorials liste
  <img src="assets/fsr youtube thumbnail.png" alt="Watch the video" width=52% />
 </a></p>
 
+**SPECULATIONS**
 This week, I worked diligently to develop new skills. I was able to accomplish many activities and further my understanding of the Photon 2. Understanding how these physical components and software work together to accomplish each task will help me to create an ecosystem of my own. I still don't know what the project will be for this module, but if i had to speculate, I would imagine that we may be combining the use of the physical microcontroller, VS Code, an API, potentially copilot, and sensors to create some sort of responsive system. For example, with these tools, I could potentially have an LED light up every time someone enters the word "student" on their computer. I could make a game that lets someone's interaction with a distance sensor guide them through an obstacle course. I could possibly make some wheels turn using voice commands. There are many ways to combine the aformentioned skills to create a cohesive system of interworking parts.
 
 ---
@@ -164,6 +168,7 @@ This week, I began to familiarize myself with interaction systems, which will en
 
 <p align="center"><img width="95%" alt="AC Transit Ecosystem Diagram" src="assets/AC Transit Ecosystem Diagram.png"></p>
 
+**SPECULATIONS**
 Understanding how different systems interact with one another to create a larger ecosystem allows will enable me to use the same principles for a project of my own. 
 
 ---
@@ -179,6 +184,7 @@ This week, I completed my computational design project. Watch the video below fo
 
 While completing this project, I used Grasshopper, Rhino, a Cura Ultimaker Slicer, and a Prusa Mk4 printer. I decided to integrate a new cellphone stand design into the system provided by TJ that I had analyzed last week. I challenged myself to create an organic shape, and I customized the system's parameters to meet my phone specifications. The biggest challenge I faced was learning how to incorporate the graph mapper into my system, which took several tries and tutorial videos before it worked properly. I ultimately decided upon using a sine function to adjust the radii of the polygons that made up my cellphone base. I was able to manipulate different parameters until I was satisfied with the form, and I used the phone's boundary representation to create the cutout that would allow for my phone to sit properly in the base.
 
+**SPECULATIONS**
 We were also able to hear from a guest speaker this week, who explained many other applications of computational design from modeling seed-planting mechanisms to creating oragami. Computational design offers a vast array of possibilities, which can help to increase accessibility, sustainability, inclusivity, and so much more. By augmenting human capabilities and allowing us to see how things will work before actually having to build them, this process allows for efficiency and iteration. We can also build models by taking in measurements and physical behaviors and using them to extrapolate more outcomes. Grasshopper is just one of many computational design tools, and I imagine that AI will also capitalize on the principles to further advance technological solutions.
 
 ---
@@ -217,6 +223,7 @@ After evaluating the example files and beginning to understand the software, I d
 
 <p align="center"><img width="95%" alt="1st Grasshopper Creation" src="assets/first try grasshopper.png"></p>
 
+**SPECULATIONS**
 This week, I pushed myself to understand new software, and I began to feel more comfortable with computational design. By diagramming the provideded example, I was able to conceptualize and analyze how different components worked together to create the intended structure. This understanding will allow me to create a computational design of my own, and I will be able to add inputs that allow for adjustments to be made. As I think about what could be accomplished with grasshopper, many things come to mind. Already, I have seen how this tool can be used to adjust parameters to accommodate different cellphone sizes and to change an object to adjust to different environmental conditions. The same can be true for other applications requiring customization such as casts, retainers, chairs, glasses, writing utensils, and more.
 
 
