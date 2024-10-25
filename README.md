@@ -1,7 +1,7 @@
 # DES INV 202 Weekly Progress Reports
 Lauryn Wright's Journey through Technology Design Foundations 
 
-## Outline
+## Table of Contents
 
 | &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; |
 |:-------------------------:|:--------------------------:|
