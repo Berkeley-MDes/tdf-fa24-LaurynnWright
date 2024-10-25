@@ -43,6 +43,12 @@ This project made me consider how digital ecosystems might transform human exper
 
 This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial-monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing.
 
+The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2.
+
+<p align="center"><img width="55%" alt="Neopixel-Photon Wiring" src="assets/neopixel breadboard.png"></p>
+
+I speculate that we will likely use a servo motor rather than the dynamixel due to the requirements of our device. I believe the dynamixel is stronger, but I doubt we will need it. Its integration into the particle system is more complex than that of the servo motor, and it potentially requires the use of additional hardware components, which may not be shipped in time.
+
 ---
 ## Week 6: Report 6 #
 ### 10/04/2024 - 10/10/2024
