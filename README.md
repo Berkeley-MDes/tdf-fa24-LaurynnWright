@@ -2,9 +2,10 @@
 Lauryn Wright's Journey through Technology Design Foundations 
 
 ## Outline
-[week 1](README.md#week-1-report-1)
+| [week 1](README.md#week-1-report-1) |
+|-------------------------------------|
 
-[week 2](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright?tab=readme-ov-file#week-2-report-2)
+[week 2](README.md#week-2-report-2)
 
 [week 3](https://github.com/Berkeley-MDes/tdf-fa24-LaurynnWright/blob/main/README.md#week-3-report-3)
 
