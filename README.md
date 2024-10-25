@@ -41,7 +41,12 @@ This project made me consider how digital ecosystems might transform human exper
 ## Week 7: Report 7 #
 ### 10/11/2024 - 10/17/2024
 
-This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial-monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing.
+This week, I tested several components that my team is considering integrating into our module 2 project. I was able to get good serial-monitor results for the proximity/ gesture sensor, and I began to understand the power and wiring requirements of a dynamixel motor and neopixel featherwing. A video of me testing the proximity/ gesture sensor is shown below.
+
+<p align="center"> Click the image below to watch the video.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=h1jQK_fN28M" target="_blank">
+ <img src="assets/Proximity-Gesture Thumbnail.png" alt="Watch the video" width=95% />
+</a></p>
 
 The image below shows the wiring for the neopixel featherwing device. It is set up with the ability to be powered through either an external battery or USB connection via the photon 2. I relied on pinout and product information from Adafruit that I found <a href="https://learn.adafruit-neopixel-featherwing/pinouts">HERE</a>.
 
