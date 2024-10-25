@@ -28,9 +28,12 @@ The jellyfish tentacles are driven by a servo motor and when an object is placed
 
 We originally intended to use an FSR sensor, located on the side of the jellyfish’s head to change the jellyfish’s color, but pivoted to using a button. The button allowed for seamless integration into the code using interrupts due to its digital characteristics. We also ended up using two photons, one for the electronics and one for the gesture sensor to p5 interaction. 
 
-Since I tested each component individually, and then as a combined circuit, the integration of electronics went smoothly. I managed the breadboard and wiring of the final prototype, which was successful due to the flexible, modular housing that Chantal designed. 
+Since I tested each component individually, and then as a combined circuit, the integration of electronics went smoothly. I managed the breadboard and wiring of the final prototype, which was successful due to the flexible, modular housing that Chantal designed. I also edited the video for my team, which is below.
 
-EaznarRiLaQ
+<p align="center"> Click the image below to watch the video.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=EaznarRiLaQ" target="_blank">
+ <img src="assets/Jellyfish Thumbnail.png" alt="Watch the video" width=95% />
+</a></p>
 
 This project made me consider how digital ecosystems might transform human experiences by making environments more interactive and adaptable. In the future, design and engineering are likely to focus on creating smart, flexible products that integrate with evolving systems. AI will enhance these ecosystems, enabling them to respond to and anticipate user behavior in real-time. Projects like Jellyfish could ultimately blur the boundaries between digital and physical interactions, with the potential to develop into innovative educational tools—an exciting direction for future exploration.
 
