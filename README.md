@@ -172,7 +172,7 @@ This week, I worked diligently to develop new skills. I was able to accomplish m
 ## Week 4: Report 4 #
 ### 09/20/2024 - 09/26/2024
 
-This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. Specifically, I studied how the AC Transit bus system works to connect me and my app to real-time bus locations. The images below show several screens of the AC Transit app that the user interacts with. They were found <a href="https://play.google.com/store/apps/details?id=org.actransit.actransitapp&hl=en_US)">HERE</a>.
+This week, I began to familiarize myself with interaction systems, which will enable the completion of TDF Project 2. Specifically, I studied how the AC Transit bus system works to connect me and my app to real-time bus locations. The images below show several screens of the AC Transit app that I often interact with. They were found <a href="https://play.google.com/store/apps/details?id=org.actransit.actransitapp&hl=en_US)">HERE</a>.
 
 <p align="left"><img width="20%" alt="Welcom Page" src="assets/AC Transit Start.png">
 <img width="20%" alt="Get Started" src="assets/AC Transit Welcome.png">
