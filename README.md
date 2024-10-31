@@ -14,8 +14,34 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 9: Report 9 #
 ### 10/25/2024 - 10/31/2024
 
+This week I learned about LLMs and how to use Zerowidth. I walked throgh the tutorial videos by TJ and recreated each project with my own details. The screenshots from each experiment are shown below.
+
+<p align="center"><img width="60%" alt="Experiment 01 Pupose Prompt 01" src="assets/GPT Purpose Screenshot 01.png"></p>
+<p align="center"><img width="20%" alt="Experiment 01 Pupose Prompt 02" src="assets/GPT Purpose Screenshot 02 Crop.png">
+<img width="20%" alt="Experiment 01 Pupose Prompt 03" src="assets/GPT Purpose Screenshot 03 Crop.png">
+<img width="20%" alt="Experiment 01 Pupose Prompt 04" src="assets/GPT Purpose Screenshot 04 Crop.png">
+<img width="20%" alt="Experiment 01 Pupose Prompt 05" src="assets/GPT Purpose Screenshot 05 Crop.png">
+</p>
+
+I then learned how to access and use the demo page as shown below.
+<p align="center"><img width="60%" alt="Experiment 01 Pupose Prompt in Demo Page" src="assets/GPT Purpose Demo Page.png"></p>
+
+For the second experiment...
+<p align="center"><img width="60%" alt="Experiment 02 Outcome" src="assets/GPT+INSTRUCT Purpose Screenshot.png"></p>
+
+For the third experiment...
+<p align="center"><img width="60%" alt="Experiment 03 Purpose Outcome" src="assets/GPT+INSTRUCT+RAG Purpose Screenshot.png"></p>
+<p align="center"><img width="60%" alt="Experiment 03 Education Outcome" src="assets/GPT+INSTRUCT+RAG Education Screenshot.png"></p>
+<p align="center"><img width="60%" alt="Experiment 03 Printpack Outcome" src="assets/GPT+INSTRUCT+RAG Printpack Screenshot.png"></p>
+
+For the fourth experiment...
+<p align="center"><img width="60%" alt="Experiment 04 Graduation Details Outcome" src="assets/GPT+INSTRUCT+RAG+VARIABLE Graduating Details Screenshot.png"></p>
+<p align="center"><img width="60%" alt="Experiment 04 Location Prompt Outcome" src="assets/GPT+INSTRUCT+RAG+VARIABLE Location Screenshot.png"></p>
+
 |**SPECULATIONS**|
 |----------------|
+
+I can imagine many applications for zerowidth. Not only can it add specific details to an already powerful AI system, but it also allows for nested AI interactions. The ability to adjust a prompt to recieve a specific output and then use it again as in the fourth experiment is incredibly useful. Entire digital ecosystems can be made with this product. The ability to also employ it with API calls and connect it to a particle photon is only one of many use cases. I could create a system to write essays that sound like me, post replys with my perspective, curate news with only the information I care about, and so much more.
 
 ---
 ## Week 8: Report 8 #
