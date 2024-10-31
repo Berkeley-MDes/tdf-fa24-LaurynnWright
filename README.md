@@ -16,6 +16,8 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 This week I learned about LLMs and how to use Zerowidth. I walked throgh the tutorial videos by TJ and recreated each project with my own details. The screenshots from each experiment are shown below.
 
+In the first experiment, I simply tested how temperature changes affect reposnses to the prompt, "What is your purpose." The screenshots below show the reponses with temperatures at 0, 0.5, 1, 1.5, and 2 respectively. As shown, each response was slightly different.
+
 <p align="center"><img width="60%" alt="Experiment 01 Pupose Prompt 01" src="assets/GPT Purpose Screenshot 01.png"></p>
 <p align="center"><img width="20%" alt="Experiment 01 Pupose Prompt 02" src="assets/GPT Purpose Screenshot 02 Crop.png">
 <img width="20%" alt="Experiment 01 Pupose Prompt 03" src="assets/GPT Purpose Screenshot 03 Crop.png">
@@ -26,22 +28,22 @@ This week I learned about LLMs and how to use Zerowidth. I walked throgh the tut
 I then learned how to access and use the demo page as shown below.
 <p align="center"><img width="60%" alt="Experiment 01 Pupose Prompt in Demo Page" src="assets/GPT Purpose Demo Page.png"></p>
 
-For the second experiment...
+For the second experiment, I added instructions for the OpenAI, so that it would curate responses that would specifically pertain to my academic and work experiences. The result is shown in the photo below.
 <p align="center"><img width="60%" alt="Experiment 02 Outcome" src="assets/GPT+INSTRUCT Purpose Screenshot.png"></p>
 
-For the third experiment...
+For the third experiment, I included a knowledge base, which contained information from an old resume of mine. With these details included, I was able to ask about purpose again and recieve a more specific response. I also asked specific questions about my education and work experience with Printpack and recieved correct responses as shown below.
 <p align="center"><img width="60%" alt="Experiment 03 Purpose Outcome" src="assets/GPT+INSTRUCT+RAG Purpose Screenshot.png"></p>
 <p align="center"><img width="60%" alt="Experiment 03 Education Outcome" src="assets/GPT+INSTRUCT+RAG Education Screenshot.png"></p>
 <p align="center"><img width="60%" alt="Experiment 03 Printpack Outcome" src="assets/GPT+INSTRUCT+RAG Printpack Screenshot.png"></p>
 
-For the fourth experiment...
+For the fourth experiment, I added variables and changed the interaction to be a single-question and single-answer. The variable were location and time, so every question was altered to include these variables. With the variables set to Spring and 2019, I was able to ask, "Is this the place and time of Lauryn's high school graduation?" I recieved a correct and detailed response. I also asked, "How is Lauryn affiliated with this place?" The output was not only correct but also extremely specific to my experience. The images below display both responses.
 <p align="center"><img width="60%" alt="Experiment 04 Graduation Details Outcome" src="assets/GPT+INSTRUCT+RAG+VARIABLE Graduating Details Screenshot.png"></p>
 <p align="center"><img width="60%" alt="Experiment 04 Location Prompt Outcome" src="assets/GPT+INSTRUCT+RAG+VARIABLE Location Screenshot.png"></p>
 
 |**SPECULATIONS**|
 |----------------|
 
-I can imagine many applications for zerowidth. Not only can it add specific details to an already powerful AI system, but it also allows for nested AI interactions. The ability to adjust a prompt to recieve a specific output and then use it again as in the fourth experiment is incredibly useful. Entire digital ecosystems can be made with this product. The ability to also employ it with API calls and connect it to a particle photon is only one of many use cases. I could create a system to write essays that sound like me, post replys with my perspective, curate news with only the information I care about, and so much more.
+I can imagine many applications for Zerowidth. Not only can it add specific details to an already powerful AI system, but it also allows for nested AI interactions. The ability to adjust a prompt to recieve a specific output and then use it again as in the fourth experiment is incredibly useful. Entire digital ecosystems can be made with this product. The ability to also employ it with API calls and connect it to a particle photon is only one of many use cases. I could create a system to write essays that sound like me, post replys with my perspective, curate news with only the information I care about, and so much more.
 
 ---
 ## Week 8: Report 8 #
