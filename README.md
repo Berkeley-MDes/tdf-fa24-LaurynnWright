@@ -3,12 +3,19 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 ## Table of Contents
 
-| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; |
-|:-------------------------:|:--------------------------:|
-| [week 1](README.md#week-1-report-1) | [week 5](README.md#week-5-report-5) |
-| [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) |
-| [week 3](README.md#week-3-report-3) | [week 7](README.md#week-7-report-7) |
-| [week 4](README.md#week-4-report-4) | [week 8](README.md#week-8-report-8) |
+| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; | &emsp; 10/25 - 10/31 &emsp; |
+|:-------------------------:|:--------------------------:|:---------------------------:|
+| [week 1](README.md#week-1-report-1) | [week 5](README.md#week-5-report-5) | [week 9](README.md#week-9-report-9) |
+| [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) ||
+| [week 3](README.md#week-3-report-3) | [week 7](README.md#week-7-report-7) ||
+| [week 4](README.md#week-4-report-4) | [week 8](README.md#week-8-report-8) ||
+
+---
+## Week 9: Report 9 #
+### 10/25/2024 - 10/31/2024
+
+|**SPECULATIONS**|
+|----------------|
 
 ---
 ## Week 8: Report 8 #
