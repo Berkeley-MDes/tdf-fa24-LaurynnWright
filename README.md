@@ -3,7 +3,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 ## Table of Contents
 
-| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; | &emsp; 10/25 - 10/31 &emsp; |
+| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; | &emsp; 10/25 - 11/07 &emsp; |
 |:-------------------------:|:--------------------------:|:---------------------------:|
 | [week 1](README.md#week-1-report-1) | [week 5](README.md#week-5-report-5) | [week 9](README.md#week-9-report-9) |
 | [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) | [week 10](README.md#week-10-report-10) |
@@ -12,7 +12,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 ---
 ## Week 10: Report 10 #
-### 10/25/2024 - 10/31/2024
+### 11/01/2024 - 11/07/2024
 
 This week I completed Project 3. I continued my exploration of Zerowidth, and I added an additional experiment to output the opposite of each response from experiment 4. The video below details my process, challenges, and solutions for this project.
 
