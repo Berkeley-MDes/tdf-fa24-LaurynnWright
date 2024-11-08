@@ -14,6 +14,18 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 10: Report 10 #
 ### 10/25/2024 - 10/31/2024
 
+This week I completed Project 3. I continued my exploration of Zerowidth, and I added an additional experiment to output the opposite of each response from experiment 4. The video below details my process, challenges, and solutions for this project.
+
+<p align="center"> Click the image below to watch the video.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eF2VBny_C-A" target="_blank">
+ <img src="assets/Project 3 Thumbnail.png" alt="Watch the video" width=95% />
+</a></p>
+
+|**SPECULATIONS**|
+|----------------|
+
+With AI agents, humans may begin relying more heavily on this symbiotic relationship for communication and even tying personal identities to Mini-Me's. Designing with LLMs in engineering will allow for wholistic solutions due to the broader knowledge base. AI will be used as a tool and partner for continuous innovation, even in these examples we saw the advantage of nested LLMs. Using zerowidth in the project demonstrated the capabilities to enhance design through LLMs. It allows for personalization by curating responses, adaptivity through input adjustments like temperature and integration capabilities through APIs. The possibilities are endless.
+
 ---
 ## Week 9: Report 9 #
 ### 10/25/2024 - 10/31/2024
