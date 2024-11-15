@@ -14,6 +14,17 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 11: Report 11 #
 ### 11/08/2024 - 11/14/2024
 
+This week, I completed my report for project 3. To accomplish that, I needed to create several diagrams and synthesize some information into digestable representations. I created a system architecture diagram displaying the components interacting in my experiment 5 agent flow, and I created a process diagram illustrating the interactions and flow of information between each component. In addition to the diagrams, I created a table with the baseline questions and target responses for each ZeroWidth experiment. The following quotes are exerpts from my project 3 report.
+
+The image below is the system architecture for experiment 5, my "Opposite Mini-Me."
+<p align="center"><img width="50%" alt="Project 3 System Architecture" src="assets/System Architecture.png"></p>
+
+The following image displays the process diagram for my "Opposite Mini-Me"
+<p align="center"><img width="95%" alt="Project 3 Process Diagram" src="assets/Process Diagram.png"></p>
+
+Below is the table containing my baseline questions and target answers.
+<p align="center"><img width="80%" alt="Baseline Questions & Target Answers" src="assets/Target Answer Table.png"></p>
+
 ---
 ## Week 10: Report 10 #
 ### 11/01/2024 - 11/07/2024
