@@ -17,13 +17,28 @@ Lauryn Wright's Journey through Technology Design Foundations
 This week, I completed my report for project 3. To accomplish that, I needed to create several diagrams and synthesize some information into digestable representations. I created a system architecture diagram displaying the components interacting in my experiment 5 agent flow, and I created a process diagram illustrating the interactions and flow of information between each component. In addition to the diagrams, I created a table with the baseline questions and target responses for each ZeroWidth experiment. The following quotes are exerpts from my project 3 report.
 
 The image below is the system architecture for experiment 5, my "Opposite Mini-Me."
+> "The system includes three separate LLMs, three separate instructional prompts, and a knowledge base. The user supplies the input to the system and receives the resulting output. The user input includes both context variables—“tool” and “week”—and a baseline question. The output response that returns to the user comes from the final LLM."
+>
 <p align="center"><img width="50%" alt="Project 3 System Architecture" src="assets/System Architecture.png"></p>
 
 The following image displays the process diagram for my "Opposite Mini-Me"
+> "The information or data traveling between each component accompanies arrows, which signify the direction of flow. The flow of information also has a color corresponding to its respective component. As shown in the diagram, The user inputs context variables and a baseline question. The context variables are incorporated into the first instruction prompt, and the result is supplied as an input to the first LLM. This LLM rewords the baseline question to include the context variables. Once reworded, the updated question is used to search the knowledge base for relevant information. Appropriate information is supplied as an input to the second LLM along with the original baseline question and the second set of instructions. The second LLM’s output should be a correct answer to the original baseline question within the context of the context variables. This response is then supplied as an input to the final LLM along with the final set of instructions. The instructions prompt the third LLM to give the input response the opposite meaning. This output is then returned to the user."
+>
 <p align="center"><img width="95%" alt="Project 3 Process Diagram" src="assets/Process Diagram.png"></p>
 
 Below is the table containing my baseline questions and target answers.
+> "Throughout  this project, each agent flow for experiments one through five was prompted with the same set of baseline questions. For experiments one through four, the target answer is the same. It should be an accurate representation of my personal experience throughout TDF. The final experiment, however, has an opposing target answer. It should rephrase the correct response and supply a new answer with the opposite meaning."
+>
 <p align="center"><img width="80%" alt="Baseline Questions & Target Answers" src="assets/Target Answer Table.png"></p>
+
+|**SPECULATIONS**|
+|----------------|
+
+> "Just as cellphones altered the ways in which humans interact with one another and the environment around them, LLMs may alter the communication practices between individuals. With agents that can speak on someone’s behalf, people may stop seeking tutors, influencers may stop replying to comments, and politicians may stop proclaiming their stances. Instead, individuals may opt to have agents speak on their behalf. This has vast implications on the human environment and the spaces humans occupy. Infrastructure created around specific activities like town halls, meet-and-greets, and Ted Talks could completely change. The potential impact of LLMs could have both positive and negative consequences. Minimizing the need to speak on one’s own behalf could foster isolation. However, there is also potential to enhance communication, remove language boundaries, encourage world travel, and spur collaboration with the same technological capabilities."
+>
+
+> "This project offered me a glimpse into the profound capabilities of LLMs, inspiring ideas for future projects and establishing a foundation for developing solutions that incorporate LLM-integration. With additional time on this project, I would train an agent to assist me with my professional development. This could include writing cover letters, simulating interviews for job preparation, and drafting emails for networking. As I move forward, I am better equipped to leverage LLMs as a versatile tool for future design challenges. I aim to use the skills I’ve developed to continue refining my design approach."
+> 
 
 ---
 ## Week 10: Report 10 #
