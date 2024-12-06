@@ -3,12 +3,16 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 ## Table of Contents
 
-| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; | &emsp; 10/25 - 11/21 &emsp; |
-|:-------------------------:|:--------------------------:|:---------------------------:|
-| [week 1](README.md#week-1-report-1) | [week 5](README.md#week-5-report-5) | [week 9](README.md#week-9-report-9)    |
-| [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) | [week 10](README.md#week-10-report-10) |
-| [week 3](README.md#week-3-report-3) | [week 7](README.md#week-7-report-7) | [week 11](README.md#week-11-report-11) |
-| [week 4](README.md#week-4-report-4) | [week 8](README.md#week-8-report-8) | [week 12](README.md#week-12-report-12) |
+| &emsp; 8/30 - 9/26 &emsp; | &emsp; 9/27 - 10/24 &emsp; | &emsp; 10/25 - 11/21 &emsp; | &emsp; 11/22 - 12/05 &emsp; |
+|:-------------------------:|:--------------------------:|:---------------------------:|:---------------------------:|
+| [week 1](README.md#week-1-report-1) | [week 5](README.md#week-5-report-5) | [week 9](README.md#week-9-report-9)    | [week 14](README.md#week-14-report-13)|
+| [week 2](README.md#week-2-report-2) | [week 6](README.md#week-6-report-6) | [week 10](README.md#week-10-report-10) ||
+| [week 3](README.md#week-3-report-3) | [week 7](README.md#week-7-report-7) | [week 11](README.md#week-11-report-11) ||
+| [week 4](README.md#week-4-report-4) | [week 8](README.md#week-8-report-8) | [week 12](README.md#week-12-report-12) ||
+
+---
+## Week 14: Report 13 #
+### 11/22/2024 - 12/05/2024
 
 ---
 ## Week 12: Report 12 #
