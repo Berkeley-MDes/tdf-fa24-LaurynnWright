@@ -25,7 +25,14 @@ I anticipate many iterations of coding and testing will be needed to complete th
 ## Week 12: Report 12 #
 ### 11/15/2024 - 11/21/2024
 
-This week, I created a pin-up proposal for TDF Project 4 and selected my team members. We also created our Project 4 Team Proposal.
+This week, I created a pin-up proposal for TDF Project 4 and selected my team members. Below is the idea I shared at the class pin-up sesstion.
+
+<p align="center"><img width="90%" alt="Project 4 Pin-up Proposal" src="assets/Project 4 Team proposal.png"></p>
+
+I decided to work with Kaylee and Chantal, and we combined our ideas into one cohesive plan. We also created our Project 4 Team Proposal. Below is the proposed system architecture and process diagram for our interactive tactile and digital math game.
+
+<p align="center"><img width="90%" alt="Project 4 Pin-up Proposal" src="assets/Project 4 Team proposal.png"></p>
+<p align="center"><img width="90%" alt="Project 4 Pin-up Proposal" src="assets/Project 4 Team proposal.png"></p>
 
 |**SPECULATIONS**|
 |----------------|
