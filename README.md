@@ -23,7 +23,7 @@ This week I continued to work on components for TDF Project 4. I tested the OLED
 |**SPECULATIONS**|
 |----------------|
 
-I anticipate many iterations of coding and testing will be needed to complete this project. I will also b experimenting with the best ways to publish data for Kaylee to recieve on her end with p5.js and tone.js. 
+I anticipate many iterations of coding and testing will be needed to complete this project. I will also be experimenting with the best ways to publish data for Kaylee to recieve on her end with p5.js and tone.js. 
 
 ---
 ## Week 12: Report 12 #
