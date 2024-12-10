@@ -16,6 +16,10 @@ Lauryn Wright's Journey through Technology Design Foundations
 
 This week I continued to work on components for TDF Project 4. I tested the OLED to understand the wiring and determine how to scale and center the numbers. I also began to draft the setup and functions for our integrated VS Code file. Below are several photos from testing the OLED.
 
+<p align="center"><img width="20%" alt="OLED Small 2" src="assets/2 Small.heic">
+<img width="20%" alt="OLED Medium 2" src="assets/2 Medium.heic">
+<img width="20%" alt="OLED Large 2" src="assets/2 Large.jpg"></p>
+
 |**SPECULATIONS**|
 |----------------|
 
