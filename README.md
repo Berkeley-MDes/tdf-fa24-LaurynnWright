@@ -18,6 +18,7 @@ This week I continued to work on components for TDF Project 4. I tested the OLED
 
 |**SPECULATIONS**|
 |----------------|
+
 I anticipate many iterations of coding and testing will be needed to complete this project. I will also b experimenting with the best ways to publish data for kaylee to recieve on her end with p5.js and tone.js. 
 
 ---
@@ -28,6 +29,7 @@ This week, I created a pin-up proposal for TDF Project 4 and selected my team me
 
 |**SPECULATIONS**|
 |----------------|
+
 My team and I intend to test separate components in the upcoming week to ensure each one responds as anticipated before integrating everything into a larger system. I speculate that we may experience challenges with integrating the rfid sensors because they use SPI communication and I'm not yet sure if we can set up two separate SPI devices on the same particle photon. We will also need to determine the best way to confirm an answer on the board before publishing data. I speculate that we may use the color sensor to accomplish an extra block identification check.
 
 ---
