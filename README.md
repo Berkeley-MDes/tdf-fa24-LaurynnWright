@@ -14,9 +14,21 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 14: Report 13 #
 ### 11/22/2024 - 12/05/2024
 
+This week I continued to work on components for TDF Project 4. I tested the OLED to understand the wiring and determine how to scale and center the numbers.
+
+|**SPECULATIONS**|
+|----------------|
+I anticipate many iterations of coding and testing will be needed to complete this project. I will also b experimenting with the best ways to publish data for kaylee to recieve on her end with p5.js and tone.js. 
+
 ---
 ## Week 12: Report 12 #
 ### 11/15/2024 - 11/21/2024
+
+This week, I created a pin-up proposal for TDF Project 4 and selected my team members. We also created our Project 4 Team Proposal.
+
+|**SPECULATIONS**|
+|----------------|
+My team and I intend to test separate components in the upcoming week to ensure each one responds as anticipated before integrating everything into a larger system. I speculate that we may experience challenges with integrating the rfid sensors because they use SPI communication and I'm not yet sure if we can set up two separate SPI devices on the same particle photon. We will also need to determine the best way to confirm an answer on the board before publishing data. I speculate that we may use the color sensor to accomplish an extra block identification check.
 
 ---
 ## Week 11: Report 11 #
