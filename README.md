@@ -20,6 +20,10 @@ This week I continued to work on components for TDF Project 4. I tested the OLED
 <img width="30%" alt="OLED Medium 2" src="assets/2 Medium.jpg">
 <img width="22.5%" alt="OLED Large 2" src="assets/2 Large.jpg"></p>
 
+I used the diagram below to wire the OLED to my Photon 2.
+
+<p align="center"><img width="60%" alt="OLED Wiring Diagram" src="assets/OLED Diagram.png"></p>
+
 |**SPECULATIONS**|
 |----------------|
 
