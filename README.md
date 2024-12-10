@@ -31,8 +31,8 @@ This week, I created a pin-up proposal for TDF Project 4 and selected my team me
 
 I decided to work with Kaylee and Chantal, and we combined our ideas into one cohesive plan. We also created our Project 4 Team Proposal. Below is the proposed system architecture and process diagram for our interactive tactile and digital math game.
 
-<p align="center"><img width="90%" alt="Project 4 Pin-up Proposal" src="assets/Project 4 Team proposal.png"></p>
-<p align="center"><img width="90%" alt="Project 4 Pin-up Proposal" src="assets/Project 4 Team proposal.png"></p>
+<p align="center"><img width="90%" alt="Project 4 System Architecture" src="assets/P4 System Architecture.png"></p>
+<p align="center"><img width="90%" alt="Project 4 Process Diagram" src="assets/P4 Process Diagram.png"></p>
 
 |**SPECULATIONS**|
 |----------------|
