@@ -14,7 +14,7 @@ Lauryn Wright's Journey through Technology Design Foundations
 ## Week 14: Report 13 #
 ### 11/22/2024 - 12/05/2024
 
-This week I continued to work on components for TDF Project 4. I tested the OLED to understand the wiring and determine how to scale and center the numbers.
+This week I continued to work on components for TDF Project 4. I tested the OLED to understand the wiring and determine how to scale and center the numbers. I also began to draft the setup and functions for our integrated VS Code file. Below are several photos from testing the OLED.
 
 |**SPECULATIONS**|
 |----------------|
